@@ -5,3 +5,4 @@ d = b+c
 print(d)
 e = d - a
 print(e)
+print((a+b+c)/3)
